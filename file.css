@@ -1,0 +1,15 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(197, 79, 79);
+}
+
+
+/* Class*/
+.side-bar{
+    background-color: brown;
+}
+
+/* ID */
+#sidebar{
+    background-color: brown;
+}
